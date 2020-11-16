@@ -1,0 +1,38 @@
+h1{
+    color: black;
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    font-family: Helvetica;
+}
+
+h2 {
+    color: black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: Helvetica;
+}
+table, th, td {
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+    border-collapse: collapse;
+    font-size: 20px;
+}
+
+table{
+    border: 2px solid black;
+    width: 40%;
+    text-align: center;
+    font-family: Helvetica;
+}
+
+thead {
+    background-color: gray;
+    color: white;
+}
+
+.code {
+    background-color: beige;
+}
